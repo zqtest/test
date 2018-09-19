@@ -1,2 +1,3 @@
 
 printf("test");
+puts("");
